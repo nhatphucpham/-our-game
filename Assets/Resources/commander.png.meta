@@ -1,0 +1,792 @@
+fileFormatVersion: 2
+guid: d109519bb7b7be44d90bcd05a8f82380
+timeCreated: 1490725820
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: commander_0
+    21300002: commander_1
+    21300004: commander_2
+    21300006: commander_3
+    21300008: commander_4
+    21300010: commander_5
+    21300012: commander_6
+    21300014: commander_7
+    21300016: commander_8
+    21300018: commander_9
+    21300020: commander_10
+    21300022: commander_11
+    21300024: commander_12
+    21300026: commander_13
+    21300028: commander_14
+    21300030: commander_15
+    21300032: commander_16
+    21300034: commander_17
+    21300036: commander_18
+    21300038: commander_19
+    21300040: commander_20
+    21300042: commander_21
+    21300044: commander_22
+    21300046: commander_23
+    21300048: commander_24
+    21300050: commander_25
+    21300052: commander_26
+    21300054: commander_27
+    21300056: commander_28
+    21300058: commander_29
+    21300060: commander_30
+    21300062: commander_31
+    21300064: commander_32
+    21300066: commander_33
+    21300068: commander_34
+    21300070: commander_35
+    21300072: commander_36
+    21300074: commander_37
+    21300076: commander_38
+    21300078: commander_39
+    21300080: commander_40
+    21300082: commander_41
+    21300084: commander_42
+    21300086: commander_43
+    21300088: commander_44
+    21300090: commander_45
+    21300092: commander_46
+    21300094: commander_47
+    21300096: commander_48
+    21300098: commander_49
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: commander_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 435
+        width: 26
+        height: 45
+      alignment: 9
+      pivot: {x: 0.52274925, y: 0.0793925}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 435
+        width: 41
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5372222, y: 0.09602715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 435
+        width: 40
+        height: 33
+      alignment: 9
+      pivot: {x: 0.51907635, y: 0.095347084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 435
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.57267255, y: 0.095347084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 435
+        width: 61
+        height: 33
+      alignment: 9
+      pivot: {x: 0.27483505, y: 0.095347084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_5
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 435
+        width: 60
+        height: 33
+      alignment: 9
+      pivot: {x: 0.27744114, y: 0.06066247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 435
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41022804, y: 0.09727393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 381
+        width: 47
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5892941, y: 0.053064838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 381
+        width: 49
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6401535, y: 0.06066247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 381
+        width: 44
+        height: 34
+      alignment: 9
+      pivot: {x: 0.60405314, y: 0.10724864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 381
+        width: 34
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09727393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 381
+        width: 29
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53946817, y: 0.07358446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 315
+        width: 402
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_13
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 315
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 315
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 316
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 316
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 316
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 316
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_19
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 316
+        width: 60
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_20
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 316
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_21
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 262
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 262
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_23
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 262
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_24
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 262
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 262
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 210
+        width: 402
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 210
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_28
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_29
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 210
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 210
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 210
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_32
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 210
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_34
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 162
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_35
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 162
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 107
+        width: 402
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_37
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_38
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 107
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_39
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 107
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_40
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 107
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 107
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 107
+        width: 64
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 107
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_44
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 107
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_45
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_46
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 59
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 59
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 402
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: commander_49
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

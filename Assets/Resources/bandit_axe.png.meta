@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 045b04081120edc45935700f9afb8af3
+timeCreated: 1492291651
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bandit_axe_0
+    21300002: bandit_axe_1
+    21300004: bandit_axe_2
+    21300006: bandit_axe_3
+    21300008: bandit_axe_4
+    21300010: bandit_axe_5
+    21300012: bandit_axe_6
+    21300014: bandit_axe_7
+    21300016: bandit_axe_8
+    21300018: bandit_axe_9
+    21300020: bandit_axe_15
+    21300022: bandit_axe_22
+    21300024: bandit_axe_23
+    21300026: bandit_axe_24
+    21300028: bandit_axe_25
+    21300030: bandit_axe_26
+    21300032: bandit_axe_27
+    21300034: bandit_axe_28
+    21300036: bandit_axe_30
+    21300038: bandit_axe_31
+    21300040: bandit_axe_32
+    21300042: bandit_axe_35
+    21300044: bandit_axe_36
+    21300046: bandit_axe_44
+    21300048: bandit_axe_45
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 15
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bandit_axe_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 296
+        width: 36
+        height: 33
+      alignment: 9
+      pivot: {x: 0.37474188, y: 0.18116252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 290
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.38547844, y: 0.17882596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 35
+        height: 39
+      alignment: 9
+      pivot: {x: 0.61452156, y: 0.12743828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 247
+        width: 54
+        height: 82
+      alignment: 9
+      pivot: {x: 0.6020621, y: 0.13950181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 239
+        width: 56
+        height: 82
+      alignment: 9
+      pivot: {x: 0.61631095, y: 0.12728174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 233
+        width: 62
+        height: 89
+      alignment: 9
+      pivot: {x: 0.72627306, y: 0.11718973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 230
+        width: 68
+        height: 91
+      alignment: 9
+      pivot: {x: 0.74314743, y: 0.10357985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_7
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 227
+        width: 72
+        height: 93
+      alignment: 9
+      pivot: {x: 0.764434, y: 0.10133001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 41
+        height: 86
+      alignment: 9
+      pivot: {x: 0.5855418, y: 0.033924192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 189
+        width: 41
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5855421, y: 0.034335505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 158
+        width: 41
+        height: 82
+      alignment: 9
+      pivot: {x: 0.60998315, y: 0.029519243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 184
+        width: 40
+        height: 42
+      alignment: 9
+      pivot: {x: 0.34969062, y: 0.058615185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_23
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 184
+        width: 42
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3568482, y: 0.124226704}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_24
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 182
+        width: 41
+        height: 30
+      alignment: 9
+      pivot: {x: 0.32891622, y: 0.099175006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_25
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 161
+        width: 42
+        height: 47
+      alignment: 9
+      pivot: {x: 0.32106018, y: 0.08425059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_26
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 136
+        width: 29
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5863858, y: 0.03750943}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_27
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 126
+        width: 29
+        height: 89
+      alignment: 9
+      pivot: {x: 0.6036619, y: 0.03837551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 124
+        width: 29
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5691076, y: 0.03237067}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_30
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 85
+        width: 26
+        height: 90
+      alignment: 9
+      pivot: {x: 0.4807293, y: 0.03237042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_31
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 84
+        width: 26
+        height: 90
+      alignment: 9
+      pivot: {x: 0.46145895, y: 0.03793759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 83
+        width: 26
+        height: 89
+      alignment: 9
+      pivot: {x: 0.44218886, y: 0.038375426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_35
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 28
+        height: 87
+      alignment: 9
+      pivot: {x: 0.37474278, y: 0.03352242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_36
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 95
+        width: 27
+        height: 56
+      alignment: 9
+      pivot: {x: 0.37010306, y: 0.043703623}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 29
+        height: 57
+      alignment: 9
+      pivot: {x: 0.49999973, y: 0.06928879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bandit_axe_45
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 29
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4654462, y: 0.082473755}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
